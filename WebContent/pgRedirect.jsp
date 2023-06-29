@@ -17,7 +17,7 @@ parameters.put("MID",PaytmConstants.MID);
 parameters.put("CHANNEL_ID",PaytmConstants.CHANNEL_ID);
 parameters.put("INDUSTRY_TYPE_ID",PaytmConstants.INDUSTRY_TYPE_ID);
 parameters.put("WEBSITE",PaytmConstants.WEBSITE);
-parameters.put("MOBILE_NO","6353349992");
+parameters.put("MOBILE_NO","**********");
 parameters.put("EMAIL","test@gmail.com");
 parameters.put("CALLBACK_URL", "http://localhost:8080/TheNursery/pgResponse.jsp");
 
